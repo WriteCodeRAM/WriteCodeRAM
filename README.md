@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @WriteCodeRAM
-- 👀 I’m interested in web development
-- 🌱 I’m currently majoring in computer science at FIU
-- 💞️ I’m looking to collaborate on web development projects to increase my experience.
-- 📫 You can reach me @ randalmichel@gmail.com or on discord @ smartproof. 
+# Hey, I'm Randal
+
+### ***just trying to bring ideas to life 💡***
+
+---
+
+```json
+{
+  "pronouns": "he" || "him",
+  "languages": ["English", "Haitian Creole", "French", "Java", "Javascript", "Python"],
+  "school": "Florida International University",
+  "password": "password" // move to env later 
+}
+
 
 <!---
 WriteCodeRAM/WriteCodeRAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
