@@ -4,12 +4,12 @@
 
 ---
 
-
-{
-  "pronouns": "he" || "him",
+```python
+Randal = {
+  "pronouns": "he" or "him",
   "languages": ["English", "Haitian Creole", "French", "Java", "Javascript", "Python"],
   "school": "Florida International University",
-  "password": "password" // move to env later 
+  "password": "password"  # move to env later
 }
 
 
