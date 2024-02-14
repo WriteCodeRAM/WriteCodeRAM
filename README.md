@@ -4,7 +4,7 @@
 
 ---
 
-```json
+
 {
   "pronouns": "he" || "him",
   "languages": ["English", "Haitian Creole", "French", "Java", "Javascript", "Python"],
