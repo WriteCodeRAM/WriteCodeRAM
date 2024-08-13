@@ -1,6 +1,6 @@
 # Hey, I'm Randal
 
-### ***just trying to bring ideas to life 💡***
+### ***Turning ideas into 0s and 1s 💡***
 
 ---
 
